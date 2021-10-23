@@ -6,6 +6,7 @@ contract SupplyChain {
     address public owner;
 
     // <skuCount>
+    uint256 public skuCount;
 
     // <items mapping>
 
